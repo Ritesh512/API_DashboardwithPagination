@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HireQuotientAss2/static/css/main.e71c8558.css",
+    "main.js": "/HireQuotientAss2/static/js/main.f02aa70d.js",
+    "index.html": "/HireQuotientAss2/index.html",
+    "main.e71c8558.css.map": "/HireQuotientAss2/static/css/main.e71c8558.css.map",
+    "main.f02aa70d.js.map": "/HireQuotientAss2/static/js/main.f02aa70d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e71c8558.css",
+    "static/js/main.f02aa70d.js"
+  ]
+}
