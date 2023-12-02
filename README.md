@@ -34,3 +34,5 @@ $npm start
 2. Pagination!
 3. Delete Users Details!
 4. Edit User Details!
+
+## <a href="https://ritesh512.github.io/HireQuotientAss2/">Visit the page </a>
