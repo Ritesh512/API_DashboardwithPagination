@@ -35,4 +35,4 @@ $npm start
 3. Delete Users Details!
 4. Edit User Details!
 
-## <a href="https://ritesh512.github.io/HireQuotientAss2/">Visit the page </a>
+## <a href="https://ritesh512.github.io/API_DashboardwithPagination/">Visit the page </a>
